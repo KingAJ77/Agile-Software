@@ -1,0 +1,62 @@
+Agile Methodology Overview
+It abandons the risk of spending months or years on a process that ultimately fails because of some small mistake in an early phase. It relies instead on trusting employees and teams to work directly with customers to understand the goals and provide solutions in a fast and incremental way.
+
+
+Faster, smaller:  Traditional software development relied on phases like outlining the requirements, planning, design, building, testing, and delivery. Agile methodology, by contrast, looks to deploy the first increment in a couple weeks and the entire piece of software in a couple months.
+
+
+Communication Agile teams within the business work together daily at every stage of the project through face-to-face meetings. This collaboration and communication ensure the process stays on track even as conditions change.
+
+
+Feedback:   Rather than waiting until the delivery phase to gauge success, teams leveraging Agile methodology track the success and speed of the development process regularly. Velocity is measured after the delivery of each increment.
+
+
+Trust:   Agile teams and employees are self-organizing. Rather than following a manifesto of rules from management intended to produce the desired result, they understand the goals and create their own path to reach them.
+
+
+Adjust:   Participants tune and adjust the process continually, following the KIS or Keep It Simple principle.
+
+
+
+Benefits of Agile Methodology
+The benefits of Agile are tied directly to its faster, lighter, more engaged mindset. The process, in a nutshell, delivers what the customer wants, when the customer wants it. There’s much less wasted time spent developing in the wrong direction, and the entire system is quicker to respond to changes. For a more comprehensive list of benefits, see this post.
+
+
+
+Faster:   Speed is one of the biggest benefits of Agile Methodology. A faster software development life cycle means less time between paying and getting paid. That, in turn, means a more profitable business.
+
+
+Increased customer satisfaction:   With Agile, customers don’t wait for months or years, only to get exactly what they didn’t want. Instead, they get iterations of something very close to what they want, very fast. The system adjusts quickly to refine the successful customer solution, adapting as it goes to changes in the overall environment.
+
+
+Values employees:   Employees whose ideas are valued are vastly more productive than those who are ordered to follow a set of rules. The Agile Methodology respects employees by giving them the goal, then trusting them to reach it. Since they’re the ones with their hands on the controls and the ones who see the obstacles that crop up every day, employees are in the best position to respond to challenges and meet the goals at hand.
+
+
+Eliminates rework:   By involving the customer at more than just the phases of requirements and delivery, the project remains on-task and in-tune with customer needs at every step. This means less backtracking and less “out on a limb” time between the time we do the work and the time the customer suggests revisions.
+
+
+
+
+
+Demands and drawbacks of agile methodologies.
+Here are five leading disadvantages of agile software development.
+
+1. Less predictability.
+
+For some software deliverables, developers cannot quantify the full extent of required efforts. This is especially true in the beginning of the development life cycle on larger products. Teams new to the agile methodology fear these unknowns. This fear drives frustration, poor practices, and often poor decisions. The more regimented, waterfall process makes it easy to quantify the effort, time, and cost of delivering the final product.
+
+2. More time and commitment.
+
+Testers, customers, and developers must constantly interact with each other. This involves numerous face-to-face conversations, as they are the best form of communication. All involved in the project must have close cooperation. Daily users need to be available for prompt testing and sign off on each phase so developers can mark it off as complete before moving on to the next feature. This might ensure the product meets user expectations, but is onerous and time-consuming. This demands more time and energy of everyone involved.
+
+3. Greater demands on developers and clients.
+
+These principles require close collaboration and extensive user involvement. Though it is an engaging and rewarding system, it demands a big commitment for the entirety of the project to ensure success. Clients must go through training to aid in product development. Any lack of client participation will impact software quality and success. It also reflects poorly on the development company.
+
+4. Lack of necessary documentation.
+
+Because requirements for software are clarified just in time for development, documentation is less detailed. This means that when new members join the team, they do not know the details about certain features or how they need to perform. This creates misunderstandings and difficulties.
+
+5. Project easily falls off track.
+
+This method requires very little planning to get started, and assumes the consumer's needs are ever changing. With so little to go on, you can see how this could limit the agile model. Then, if a consumer's feedback or communications are not clear, a developer might focus on the wrong areas of development. It also has the potential for scope creep, and an ever-changing product becomes an ever-lasting one.
